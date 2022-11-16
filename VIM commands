@@ -2,3 +2,10 @@
 shift + #
 
 #To escape :noh
+
+#To copy line in esc mode yy
+
+#To copy all v + g + scroll where you want + yy (to copy)
+
+#To copy p
+
