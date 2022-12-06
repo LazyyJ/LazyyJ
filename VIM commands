@@ -10,3 +10,11 @@ shift + #
 #To copy p
 
 p
+
+#To delete all line 
+:%d
+
+To highlight all 
+esc
+V
+scroll
